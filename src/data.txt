@@ -1,0 +1,4 @@
+c4 	 débit 	 5 	 G 	 5 	 8 	 0 
+c3 	 mouvement 	 3 	 H 	 3 	 0 	 0 
+c1 	 mouvement 	 3 	 D 	 4 	 0 	 2 
+c2 	 fumée 	 3 	 C 	 3 	 3 	 1 
