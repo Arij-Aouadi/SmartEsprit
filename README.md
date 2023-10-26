@@ -1,5 +1,5 @@
 # SmartEsprit
-is a desktop application for managing Esprit engineering school functionalities.
+is a C++ desktop application for managing Esprit engineering school functionalities.
 
 
 Every log in to any of the employees specific spaces or student's reclamations requires authentification .
